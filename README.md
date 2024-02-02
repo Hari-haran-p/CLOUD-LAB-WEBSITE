@@ -17,10 +17,10 @@ The use of ReactJS ensures a responsive and user-friendly experience, allowing s
 To deploy this project run
 
 ```bash
-  git clone "https://github.com/PrashanthSai-K/Cloudlab-site.git"
+  git clone "https://github.com/PrashanthSai-K/CLOUD-LAB-WEBSITE.git"
 ```
 ```bash
-  cd Cloudlab-site
+  cd CLOUD-LAB-WEBSITE
 ```
 ```bash
   npm install
